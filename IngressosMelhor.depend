@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698151224 source:c:\users\paula\onedrive\documentos\c++\ingressosmelhor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
+1698188241 source:c:\users\unip\desktop\ingressosmelhor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
